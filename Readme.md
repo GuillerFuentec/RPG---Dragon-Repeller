@@ -1,10 +1,10 @@
-# RPG (Role-Playing Game) en JavaScript
+# RPG (Role-Playing Game) in JavaScript
 
-## Descripción del Proyecto
+## Project Description
 
-En este emocionante proyecto, construiremos un juego de rol (RPG) en JavaScript que sumergirá a los jugadores en un fascinante mundo lleno de héroes y enemigos. A medida que el héroe avanza, enfrentará desafíos épicos, ganará experiencia y mejorará sus habilidades. ¡Prepárate para la aventura!
+In this exciting project, we will build a role-playing game (RPG) in JavaScript that will immerse players in a fascinating world full of heroes and enemies. As the hero progresses, they will face epic challenges, gain experience, and improve their skills. Get ready for the adventure!
 
-## Estructura del Proyecto
+## Project Structure
 
 ```plaintext
 |-- RPG_Game
@@ -13,27 +13,27 @@ En este emocionante proyecto, construiremos un juego de rol (RPG) en JavaScript 
     |-- game.js
 ```
 
-## Funcionalidades Clave
+## Key Features
 
-1. **Héroe y Enemigo:**
-   - El juego contará con un héroe valiente y enemigos formidables.
-   - Cada enfrentamiento contra un enemigo proporcionará al héroe valiosa experiencia.
+1. **Hero and Enemy:**
+   - The game will feature a brave hero and formidable enemies.
+   - Each encounter with an enemy will provide the hero with valuable experience.
 
-2. **Ataque Dinámico:**
-   - Al hacer clic en el botón "Atacar", el héroe realizará un ataque con un rango de daño aleatorio.
+2. **Dynamic Attack:**
+   - By clicking the "Attack" button, the hero will perform an attack with a range of random damage.
 
-3. **Progresión del Héroe:**
-   - La experiencia ganada en la batalla se sumará al héroe.
-   - Al alcanzar ciertos niveles de experiencia, el héroe subirá de nivel y se enfrentará a enemigos más poderosos.
+3. **Hero Progression:**
+   - Experience gained in battle will be added to the hero.
+   - Upon reaching certain experience levels, the hero will level up and face more powerful enemies.
 
-4. **Interfaz Gráfica Atractiva:**
-   - La interfaz gráfica mostrará de manera clara la información del héroe y del enemigo.
-   - Los estilos CSS proporcionarán una experiencia visual atractiva y amigable.
+4. **Attractive Graphic Interface:**
+   - The graphic interface will clearly display information about the hero and the enemy.
+   - CSS styles will provide an attractive and user-friendly visual experience.
 
-## Inspiración Visual
+## Visual Inspiration
 
-El juego se inspira en la fantasía clásica, con colores vibrantes y elementos visuales que transportan al jugador a un mundo lleno de magia y desafíos épicos.
+The game draws inspiration from classic fantasy, with vibrant colors and visual elements that transport the player to a world full of magic and epic challenges.
 
-## ¡Prepárate para la Aventura!
+## Get Ready for the Adventure!
 
-Este proyecto proporcionará una introducción emocionante al desarrollo web con JavaScript. Sigue explorando y mejorando el juego para convertirlo en una experiencia épica para los jugadores. ¡Que la aventura comience! 🚀
+This project will provide an exciting introduction to web development with JavaScript. Keep exploring and enhancing the game to turn it into an epic experience for players. Let the adventure begin! 🚀
